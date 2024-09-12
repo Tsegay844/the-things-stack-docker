@@ -38,7 +38,7 @@ services:
     #  dockerfile: Dockerfile
     #  args:
     #    ARCH: amd64
-    #    REMOTE_TAG: 3.31.1
+    #    REMOTE_TAG: 3.32.0
     container_name: stack
     restart: unless-stopped
     depends_on:
